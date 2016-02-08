@@ -1,0 +1,21 @@
+/* Stylesheet for details.html */
+
+button {
+  border-style: none;
+  background-color: white;
+  font-family: serif;
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.content {
+  display: none;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+#link {
+  font-family: serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
